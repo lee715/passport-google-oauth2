@@ -1,26 +1,22 @@
 {
-  "name": "passport-google-oauth20",
+  "name": "passport-google-oauth2-sock5agent",
   "version": "1.0.0",
-  "description": "Google (OAuth 2.0) authentication strategy for Passport.",
+  "description": "fork from passport-google-oauth20, support sock5 agent",
   "keywords": [
     "passport",
     "google",
     "auth",
     "authn",
     "authentication",
-    "identity"
+    "identity",
+    "sock5"
   ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-google-oauth2.git"
+    "url": "git://github.com/lee715/passport-google-oauth2.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-google-oauth2/issues"
+    "url": "http://github.com/lee715/passport-google-oauth2/issues"
   },
   "license": "MIT",
   "licenses": [
